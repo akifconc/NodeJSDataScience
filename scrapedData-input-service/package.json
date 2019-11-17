@@ -1,0 +1,10 @@
+{
+  "name": "wavo",
+  "version": "0.1.0",
+  "description": "Data input microservices that scrapes reviews about a game from opencritic website",
+  "main": "index.js",
+  "repository": "https://github.com/akifconc/NodeJSDataScience.git",
+  "author": "Akif Beg <akif.hamid33@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
